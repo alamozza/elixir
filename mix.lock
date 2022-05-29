@@ -1,0 +1,7 @@
+%{
+  "complex": {:hex, :complex, "0.4.1", "5d5a7bdbec13428c05824bac550b7d2b14ec395cd64663eca3cb0d3359aa22c5", [:mix], [], "hexpm", "6a813529dddba9bdfc17dffdd1aeda7b3d6891b76c8d4c1ae902ec74eb496a32"},
+  "math": {:hex, :math, "0.7.0", "12af548c3892abf939a2e242216c3e7cbfb65b9b2fe0d872d05c6fb609f8127b", [:mix], [], "hexpm", "7987af97a0c6b58ad9db43eb5252a49fc1dfe1f6d98f17da9282e297f594ebc2"},
+  "nx": {:hex, :nx, "0.2.0", "ae550cd72bca2e56f90fc63d59f2f11ac17ed3c4a9cd0968397f4ef9b795b3d6", [:mix], [{:complex, "~> 0.4.0", [hex: :complex, repo: "hexpm", optional: false]}], "hexpm", "31d4936d2cf78a0b147830f0e6fca45bd3ed4b1e592e2bcd61a85f81e892617c"},
+  "random": {:hex, :random, "0.2.4", "6b4864e4c8055a0045f10e83b01452239ffe9b86945fa3f0473a885ae3996bdd", [:mix], [{:tinymt, "~> 0.3.1", [hex: :tinymt, repo: "hexpm", optional: false]}], "hexpm", "836f7aa84f9d3ca8c4c161332ab1597c4e68e2bf9180b8cfd5e60e06b7012928"},
+  "tinymt": {:hex, :tinymt, "0.3.2", "679e205497757c85d7545e1774665412d9715fdf28ee8a82bef225a0db4b1b01", [:make, :mix], [], "hexpm", "b7c7e502a5fe3bdf5405bfa8dc54ad80264b9c773bfe386bbff372b347c23bf2"},
+}
